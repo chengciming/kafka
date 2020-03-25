@@ -1,0 +1,26 @@
+{
+    "name": "chengciming/kafka",
+    "type": "library",
+	"version": "1.0.0",
+    "keywords": [
+		"kafka"
+    ],
+    "license": "Apache-2.0",
+    "description": "kafka client for the Apache Kafka",
+    "authors": [
+        {
+            "name": "chengciming",
+            "email": "314588938@qq.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mapping\\": "./kafka"
+        }
+    },
+    "minimum-stability": "dev"
+}
