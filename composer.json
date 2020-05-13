@@ -1,12 +1,14 @@
 {
-    "name": "chengciming/kafka",
+    "name": "chengciming/stock",
     "type": "library",
 	"version": "1.0.0",
     "keywords": [
-		"kafka"
+		"stock",
+		"lavaral",
+		"lumen"
     ],
     "license": "Apache-2.0",
-    "description": "kafka client for the Apache Kafka",
+    "description": "Stock For Lavaral.",
     "authors": [
         {
             "name": "chengciming",
@@ -15,11 +17,11 @@
         }
     ],
     "require": {
-        "php": ">=7.1"
+        "php": ">=7.0"
     },
     "autoload": {
         "psr-4": {
-            "Mapping\\": "./kafka"
+            "Mapping\\": "./stock"
         }
     },
     "minimum-stability": "dev"
