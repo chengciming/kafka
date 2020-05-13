@@ -1,10 +1,10 @@
-<h1 align="left">Kafka</h1>
+<h1 align="left">库存管理</h1>
 
 开发中...
 
 ## 运行环境
 
-1. PHP >= 7.1
+1. PHP >= 7.0
 2. **[Composer](https://getcomposer.org/)**
 
 ## 快速下载
