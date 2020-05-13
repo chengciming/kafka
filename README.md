@@ -1,4 +1,4 @@
-<h1 align="left">库存管理</h1>
+<h1 align="left">库存管理 - For Lavaral</h1>
 
 开发中...
 
